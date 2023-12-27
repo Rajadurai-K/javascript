@@ -1,5 +1,3 @@
-function samsung ()
-{
-    console.log("This is my samsung M14 5G phone bought by my mams")
+for (var i = 0; i <= 10; i += 2) {
+    console.log(i);
 }
-samsung ()
