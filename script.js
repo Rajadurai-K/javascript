@@ -73,3 +73,18 @@ console.log(friends[2]);
 const es =[2024 - 2005, 2024 - 2004,"coimabatore","rajaplayam",1,friends];
 console.log(es);
 console.log(es.length);
+
+//Array Methods
+
+//1)push //it adds an element to an end
+friends.push("jay");
+console.log(friends);
+//2)unshift //it adds an element to first
+friends.unshift("jj");
+console.log(friends);
+//3)pop // it remove an element from end
+friends.pop();
+console.log(friends);
+//4)shift //it remove an element from first
+friends.shift();
+console.log(friends);
